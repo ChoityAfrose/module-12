@@ -17,7 +17,7 @@ A dynamic, responsive Task Manager web app built using **HTML**, **Bootstrap**, 
 
 ## 📁 File Structure
 
-taskManager/
+TaskManager_withJavaScriptBootstrap/
 
 ├── index.html
 
