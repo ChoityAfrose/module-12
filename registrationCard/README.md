@@ -14,8 +14,6 @@ A stylish and responsive registration form created using **HTML** and **CSS**. T
 
 ▶️ [Click here to watch the demo video](https://drive.google.com/file/d/1g3C1JLvtDMH7cYMsF9ZPbD_aIkX5z3k1/view?usp=sharing)
 
-> Replace the link above with your actual Google Drive video share link.
-
 ## 🚀 How to Use
 
 1. Clone this repository or download the files.
